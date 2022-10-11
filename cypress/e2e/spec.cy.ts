@@ -29,7 +29,6 @@ describe("Grammar check", () => {
   });
   it("Verifying corrected words", function () {
     cy.get(".button").click();
-    cy.get(".text-success").click();
     // cy.get(".btn-success").click(); //copy to clipboard
   });
 });

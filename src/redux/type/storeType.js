@@ -1,0 +1,4 @@
+export const STORE = {
+  REQUIRED_CHANGES: "REQUIRED_CHANGES",
+  NO_ERROR: "NO_ERROR"
+};

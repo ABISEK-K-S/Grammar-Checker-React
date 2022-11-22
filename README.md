@@ -1,7 +1,7 @@
 
 # Grammar Checker
 
-This application will help to correct the grammatic and spelling mistakes.
+This application will help to correct grammatical and spelling mistakes.
 
 ## Tech Stack
 
